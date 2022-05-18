@@ -1,0 +1,5 @@
+INSERT INTO subscribers (pub_id,name,surname,street_id,house,apartment,subs_date,exp_date) VALUES (1,"a","b",1,1,1,"2020-10-10","2022-11-11");
+INSERT INTO subscribers (pub_id,name,surname,street_id,house,apartment,subs_date,exp_date) VALUES (1,"a","b",1,1,1,"2020-10-10","2022-11-11");
+INSERT INTO subscribers (pub_id,name,surname,street_id,house,apartment,subs_date,exp_date) VALUES (2,"a","b",9,1,1,"2020-10-10","2022-11-11");
+INSERT INTO subscribers (pub_id,name,surname,street_id,house,apartment,subs_date,exp_date) VALUES (2,"a","b",9,1,1,"2020-10-10","2022-11-11");
+INSERT INTO subscribers (pub_id,name,surname,street_id,house,apartment,subs_date,exp_date) VALUES (2,"a","b",9,1,1,"2020-10-10","2022-11-11");
